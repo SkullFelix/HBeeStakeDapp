@@ -177,10 +177,11 @@
     margin-bottom: 20px;
   }
   .containerMint {
-    width: 500px;
+    width: 450px;
     max-width: 150vw;
     display: flex;
     margin-top: 0px;
+    margin-bottom: 10;
     background: #ff8800db 
   }
   .containerStake1 {
