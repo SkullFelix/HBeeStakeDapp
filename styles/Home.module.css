@@ -170,20 +170,21 @@
     box-shadow: 0 0 10px 0 #31d3f3 inset, 0 0 10px 4px #3412f4;
   }
   .containerHome {
-    width: 800px;
+    width: 500px;
     max-width: 100vw;
     background:none;
     margin-top: 20px;
     margin-bottom: 20px;
   }
   .containerMint {
-    width: 800px;
+    width: 500px;
     max-width: 150vw;
     display: flex;
     margin-top: 0px;
+    background: #ff8800db 
   }
   .containerStake1 {
-    width: 700px;
+    width: 600px;
     max-width: 150vw;
     display: flex;
     margin-top: 0px;
