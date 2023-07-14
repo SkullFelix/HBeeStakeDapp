@@ -98,6 +98,7 @@
   width: 30%;
   min-height: 200px;
   padding: 16px;
+  margin-bottom: 20px;
 }
 .nftBox:hover {
   box-shadow: 0 0 10px 0 #cbe90d inset, 0 0 10px 4px #e7b521;
