@@ -76,8 +76,8 @@ const Stake: NextPage = () => {
         <>
           <h2>Your Honey</h2>
           <p className={styles.selectBoxDescription}>
-             <b>24h Stake</b>{" "}
-            and receive <b>10 HoneyBees</b>.
+             <b>1 Day Stake</b>{" "}
+            and receive <b>1 HoneyBees</b> .
           </p>
           <div className={styles.tokenGrid}>
             <div className={styles.tokenItem}>
