@@ -18,7 +18,7 @@ const Home: NextPage = () => {
           {/* Mint a new NFT */}
           <h2 className={styles.selectBoxTitle}>Mint new Bee!</h2>
           <p className={styles.selectBoxDescription}>
-            Max 4 per wallet.
+            Max 10 per wallet.
           </p>
         </div>
 
