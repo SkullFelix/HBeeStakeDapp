@@ -92,7 +92,7 @@ const Stake: NextPage = () => {
               </p>
             </div>
             <div className={styles.tokenItem}>
-              <h3 className={styles.tokenLabel}>Stake Bees Pool</h3>
+              <h3 className={styles.tokenLabel}>Your $HoneyBees balance</h3>
               <p className={styles.tokenValue}>
                 <b>{tokenBalance?.displayValue}</b> {tokenBalance?.symbol}
               </p>
